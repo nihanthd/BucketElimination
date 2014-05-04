@@ -1,0 +1,16 @@
+Language : Java 1.7
+Tool : Eclipse
+import BucketElimination.zip into Eclipse as a project.
+
+File for Execution : BucketElimination.java
+Package : com.algorithm
+
+Input file name should be given as command prompt argument
+
+for example:
+"E:\\workspace\\PGM\\BucketElimination\\input\\BN_4.uai"
+evidence file would be taken as appended for this filename with .evid 
+
+VM arguments : -Xms512m -Xmx3072m
+
+File format should be uai format.
